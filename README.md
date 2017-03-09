@@ -9,7 +9,7 @@ Docker image with CRUD REST service written with grails. It provides ability to 
 
 ## Service URL
 The application is accessible by the following URL (may not be available):
-http://rest-docker-test-2.us-east-1.elasticbeanstalk.com/questions
+http://rest-docker-test-4.us-east-1.elasticbeanstalk.com/questions
 
 ## Run with Docker
 `docker run -it -p 80:8080 bumbarashka/rest-docker-test`
