@@ -8,7 +8,7 @@ Docker image with CRUD REST service written with grails. It provides ability to 
 - Tomcat 8+
 
 ## Service URL
-The application is accessible by the following URL:
+The application is accessible by the following URL (may not be available):
 http://rest-docker-test-2.us-east-1.elasticbeanstalk.com/questions
 
 ## Run with Docker
